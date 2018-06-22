@@ -1,0 +1,9 @@
+{
+  "name": "testCliApp",
+  "version": "1.0.0",
+  "description": "Test CLI node app",
+  "main": "server.js",
+  "dependencies": {
+    "cli-interact": "^0.1.9"
+  }
+}
